@@ -1,0 +1,8 @@
+{
+  "name": "Layered Client-Server Architecture Demonstration",
+  "description": "An interactive, full-stack demonstration of client-server interaction and multi-tier layered architecture with live protocol inspection and system assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
